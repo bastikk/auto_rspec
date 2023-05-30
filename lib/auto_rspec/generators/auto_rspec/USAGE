@@ -1,0 +1,8 @@
+Description:
+    Generates a spec file with all possible shoulda-matchers tests for the model
+
+ Example:
+     bin/rails generate auto_rspec test_model
+
+     This will create:
+         spec/test_model_spec.rb with all possible shoulda-matchers tests for the model

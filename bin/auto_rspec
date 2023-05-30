@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require "auto_rspec/cli"
+AutoRspec::CLI.start

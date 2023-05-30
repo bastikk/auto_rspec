@@ -1,6 +1,0 @@
-module AutoRspec
-  class AutoRspec
-    # Todo read abbout this
-    def self.generate: -> untyped
-  end
-end
