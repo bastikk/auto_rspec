@@ -10,15 +10,15 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Shoulda-matchers generator for rspec tests."
   spec.description = "This gem generates rspec tests for your models using shoulda-matchers."
-  spec.homepage = "https://github.com/bastikk/auto_rspec"
+  # spec.homepage = "https://github.com/bastikk/auto_rspec"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
-  spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/bastikk/auto_rspec"
-  spec.metadata["changelog_uri"] = "https://github.com/bastikk/auto_rspec"
+  # spec.metadata["homepage_uri"] = spec.homepage
+  # spec.metadata["source_code_uri"] = "https://github.com/bastikk/auto_rspec"
+  # spec.metadata["changelog_uri"] = "https://github.com/bastikk/auto_rspec"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
